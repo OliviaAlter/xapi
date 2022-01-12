@@ -1,0 +1,19 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 365
+    },
+    "auditLog": "logs\\.478aee085acdad2834f267776ca19cc197e5de86-audit.json",
+    "files": [
+        {
+            "date": 1641918669167,
+            "name": "logs\\xcaller-220111.log",
+            "hash": "405a5540b3a94cb568ef5ee6155a73b3"
+        },
+        {
+            "date": 1641920815463,
+            "name": "logs\\xcaller-220112.log",
+            "hash": "e0a47fc84bac94bd1d7262f01db2decc"
+        }
+    ]
+}
